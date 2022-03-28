@@ -6,14 +6,20 @@
 // unknownSample();
 
 // 関数型
-import { logMessage, logMessage2, logMessage3, logMessage4 } from "./func/basic";
-import { sumPrice } from "./func/parameters"
+// import { logMessage, logMessage2, logMessage3, logMessage4 } from "./func/basic";
+// import { sumPrice } from "./func/parameters"
 
-logMessage('hello1!');
-logMessage2('hello2!');
-logMessage3('hello3!');
-logMessage4('hello4!');
+// logMessage('hello1!');
+// logMessage2('hello2!');
+// logMessage3('hello3!');
+// logMessage4('hello4!');
 
-const sum = sumPrice(1,2,3,4);
-console.log(sum);
+// const sum = sumPrice(1,2,3,4);
+// console.log(sum);
 
+// object
+// import objectSample from "./object/object";
+// objectSample();
+import typeAliasSample from "./object/alias";
+
+typeAliasSample()
