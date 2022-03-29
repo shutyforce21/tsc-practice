@@ -22,5 +22,7 @@
 // objectSample();
 // import typeAliasSample from "./object/alias";
 // typeAliasSample()
-import arraySample from "./array/basic";
-arraySample();
+// import arraySample from "./array/basic";
+// arraySample();
+import tumpleSample from "./array/tuple";
+tumpleSample();
