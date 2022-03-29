@@ -20,6 +20,7 @@
 // object
 // import objectSample from "./object/object";
 // objectSample();
-import typeAliasSample from "./object/alias";
-
-typeAliasSample()
+// import typeAliasSample from "./object/alias";
+// typeAliasSample()
+import arraySample from "./array/basic";
+arraySample();
